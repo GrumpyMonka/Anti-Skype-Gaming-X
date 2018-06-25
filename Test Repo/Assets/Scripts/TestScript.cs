@@ -6,7 +6,7 @@ public class TestScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		print("ONIMA");
 	}
 	
 	// Update is called once per frame
